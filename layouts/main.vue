@@ -36,8 +36,9 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: 'https://palpalych.ru/storage/app/media/2019/sajt-hudozhnika_soc.jpg'
+          content: '~/static/12ВЫАВЫА.png'
         },
+
         // {
         //   hid: 'og:image:secure_url',
         //   property: 'og:image:secure_url',

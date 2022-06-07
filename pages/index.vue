@@ -12,14 +12,14 @@ export default {
   name: 'IndexPage',
   layout: 'main',
   mounted(){
-     const successCallback = (position)=>{
-        const latitude  = position.coords.latitude;
-    const longitude = position.coords.longitude;
-     }
-     const errorCallback = (pos)=>{
-       console.error(pos);
-     }
-     navigator.geolocation.watchPosition(successCallback, errorCallback)
+    //  const successCallback = (position)=>{
+    //     const latitude  = position.coords.latitude;
+    // const longitude = position.coords.longitude;
+    //  }
+    //  const errorCallback = (pos)=>{
+    //    console.error(pos);
+    //  }
+    //  navigator.geolocation.watchPosition(successCallback, errorCallback)
   }
 }
 </script>
