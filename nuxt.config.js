@@ -1,4 +1,11 @@
 export default {
+
+  target: "static",
+  ssr: 'false',
+  generate: {
+       fallback: true
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'TestApp',
@@ -48,7 +55,4 @@ export default {
   build: {
   },
 
-  generate: {
-    dir: 'public'
-  }
 }
