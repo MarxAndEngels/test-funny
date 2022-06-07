@@ -10,7 +10,7 @@ export default {
 
    head(){
         return{
-            title: 'ЗАЙДИ И ПРОЙДИ СВОЙ САМЫЙ ЛУЧШИЙ ТЕСТ В МИРЕ!!',
+            title: 'Зайди сюда и пройди свой самый лучший тест в мире!!!',
             link:[
                 {
                     rel:'image_src',
@@ -21,17 +21,17 @@ export default {
                   {
           hid: `keywords`,
           name: 'keywords',
-          keywords: 'adssdasdsad'
+          keywords: 'Зайди сюда и пройди свой самый лучший тест в мире!!!'
         },
         {
           hid: 'og:title',
           property: 'og:title',
-          content: '3123123'
+          content: 'Зайди сюда и пройди свой самый лучший тест в мире!!!'
         },
         {
           hid: 'og:description',
           property: 'og:description',
-          content: '3123123'
+          content: 'Зайди сюда и пройди свой самый лучший тест в мире!!!'
         },
         {
           hid: 'og:image',
@@ -39,11 +39,11 @@ export default {
           content: 'https://sun9-west.userapi.com/sun9-48/s/v1/ig2/UZKGblJGUMlaNuC0P8bwS6YW3NkpovpJ7ddVPCOQ3eb8j2DDfZl3qhgku-43BRSNF2u34m-MZ5jJpP39To5S0fVo.jpg?size=600x600&quality=96&type=album'
         },
 
-        // {
-        //   hid: 'og:image:secure_url',
-        //   property: 'og:image:secure_url',
-        //       content: 'https://amigo-pets.ru/wp-content/uploads/2020/05/SHelti10.jpg'
-        // },
+        {
+          hid: 'og:image:secure_url',
+          property: 'og:image:secure_url',
+              content: 'https://sun9-west.userapi.com/sun9-48/s/v1/ig2/UZKGblJGUMlaNuC0P8bwS6YW3NkpovpJ7ddVPCOQ3eb8j2DDfZl3qhgku-43BRSNF2u34m-MZ5jJpP39To5S0fVo.jpg?size=600x600&quality=96&type=album'
+        },
         // {
         //   hid: 'og:image:alt',
         //   property: 'og:image:alt',
