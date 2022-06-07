@@ -14,7 +14,7 @@ export default {
             link:[
                 {
                     rel:'image_src',
-                    href: '~/static/12ВЫАВЫА.png'
+                    href: 'https://sun9-west.userapi.com/sun9-48/s/v1/ig2/UZKGblJGUMlaNuC0P8bwS6YW3NkpovpJ7ddVPCOQ3eb8j2DDfZl3qhgku-43BRSNF2u34m-MZ5jJpP39To5S0fVo.jpg?size=600x600&quality=96&type=album'
                 }
             ],
             meta:[
@@ -36,7 +36,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: '~/static/12ВЫАВЫА.png'
+          content: 'https://sun9-west.userapi.com/sun9-48/s/v1/ig2/UZKGblJGUMlaNuC0P8bwS6YW3NkpovpJ7ddVPCOQ3eb8j2DDfZl3qhgku-43BRSNF2u34m-MZ5jJpP39To5S0fVo.jpg?size=600x600&quality=96&type=album'
         },
 
         // {
@@ -51,7 +51,7 @@ export default {
         // },
         {
           property: 'vk:image',
-          content: '~/static/12ВЫАВЫА.png'
+          content: 'https://sun9-west.userapi.com/sun9-48/s/v1/ig2/UZKGblJGUMlaNuC0P8bwS6YW3NkpovpJ7ddVPCOQ3eb8j2DDfZl3qhgku-43BRSNF2u34m-MZ5jJpP39To5S0fVo.jpg?size=600x600&quality=96&type=album'
         }
             ],
             script:[
