@@ -51,7 +51,7 @@ export default {
         // },
         {
           property: 'vk:image',
-          content: 'https://amigo-pets.ru/wp-content/uploads/2020/05/SHelti10.jpg'
+          content: '~/static/12ВЫАВЫА.png'
         }
             ],
             script:[
