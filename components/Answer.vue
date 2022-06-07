@@ -7,6 +7,11 @@
  Посмотреть ваш результат тестирования
 </button>
 <button class="btn btn-primary" @click='goHome'> Вернуться на главную</button>
+<br>
+<br>
+<a href="https://vk.com/mivina_xd" target='_blank' title='Мой вк' class='icon__text'>
+Мой вк: <br>
+        <img src="~/static/img/vk.png" class='icon__vk' alt=""> </a>
 
 
 <!-- Modal -->
@@ -127,6 +132,16 @@ var colors = ['#bb0000', '#ffffff'];
     }
     .answer__text{
       font-size: 18px;
+    }
+    .icon__text{
+      text-decoration: none;
+      color: black;
+    }
+    .icon__text:hover{
+     color: black;
+    }
+    .icon__vk{
+      width: 36px;
     }
 
 </style>

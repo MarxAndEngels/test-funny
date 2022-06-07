@@ -14,7 +14,7 @@ export default {
             link:[
                 {
                     rel:'image_src',
-                    href: 'https://sun9-west.userapi.com/sun9-48/s/v1/ig2/UZKGblJGUMlaNuC0P8bwS6YW3NkpovpJ7ddVPCOQ3eb8j2DDfZl3qhgku-43BRSNF2u34m-MZ5jJpP39To5S0fVo.jpg?size=600x600&quality=96&type=album'
+                    href: 'https://sun9-west.userapi.com/sun9-51/s/v1/ig2/DkpRkJGqlcH-Ctesq5z5m2S9emZa7TFB_vZxZ57gwrF8ep3s0tHIr97bUYEWnRrUcAwSOthoSnnrEVC-APVxTnwS.jpg?size=1200x630&quality=96&type=album'
                 }
             ],
             meta:[
@@ -36,13 +36,13 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: 'https://sun9-west.userapi.com/sun9-48/s/v1/ig2/UZKGblJGUMlaNuC0P8bwS6YW3NkpovpJ7ddVPCOQ3eb8j2DDfZl3qhgku-43BRSNF2u34m-MZ5jJpP39To5S0fVo.jpg?size=600x600&quality=96&type=album'
+          content: 'https://sun9-west.userapi.com/sun9-51/s/v1/ig2/DkpRkJGqlcH-Ctesq5z5m2S9emZa7TFB_vZxZ57gwrF8ep3s0tHIr97bUYEWnRrUcAwSOthoSnnrEVC-APVxTnwS.jpg?size=1200x630&quality=96&type=album'
         },
 
         {
           hid: 'og:image:secure_url',
           property: 'og:image:secure_url',
-              content: 'https://sun9-west.userapi.com/sun9-48/s/v1/ig2/UZKGblJGUMlaNuC0P8bwS6YW3NkpovpJ7ddVPCOQ3eb8j2DDfZl3qhgku-43BRSNF2u34m-MZ5jJpP39To5S0fVo.jpg?size=600x600&quality=96&type=album'
+              content: 'https://sun9-west.userapi.com/sun9-51/s/v1/ig2/DkpRkJGqlcH-Ctesq5z5m2S9emZa7TFB_vZxZ57gwrF8ep3s0tHIr97bUYEWnRrUcAwSOthoSnnrEVC-APVxTnwS.jpg?size=1200x630&quality=96&type=album'
         },
         // {
         //   hid: 'og:image:alt',
@@ -51,7 +51,7 @@ export default {
         // },
         {
           property: 'vk:image',
-          content: 'https://sun9-west.userapi.com/sun9-48/s/v1/ig2/UZKGblJGUMlaNuC0P8bwS6YW3NkpovpJ7ddVPCOQ3eb8j2DDfZl3qhgku-43BRSNF2u34m-MZ5jJpP39To5S0fVo.jpg?size=600x600&quality=96&type=album'
+          content: 'https://sun9-west.userapi.com/sun9-51/s/v1/ig2/DkpRkJGqlcH-Ctesq5z5m2S9emZa7TFB_vZxZ57gwrF8ep3s0tHIr97bUYEWnRrUcAwSOthoSnnrEVC-APVxTnwS.jpg?size=1200x630&quality=96&type=album'
         }
             ],
             script:[
