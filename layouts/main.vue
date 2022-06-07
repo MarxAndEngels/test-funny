@@ -14,7 +14,7 @@ export default {
             link:[
                 {
                     rel:'image_src',
-                    href: 'https://amigo-pets.ru/wp-content/uploads/2020/05/SHelti10.jpg'
+                    href: '~/static/12ВЫАВЫА.png'
                 }
             ],
             meta:[
