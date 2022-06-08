@@ -3,10 +3,10 @@
     <div v-if='url'>
 
         <!-- Button trigger modal -->
-<button type="button" class="btn btn-info" data-bs-toggle="modal" data-bs-target="#exampleModal">
- Посмотреть ваш результат тестирования
+<button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#exampleModal">
+ Посмотреть результат
 </button>
-<button class="btn btn-primary" @click='goHome'> Вернуться на главную</button>
+<button class="btn btn-info" @click='goHome'> Вернуться на главную</button>
 <br>
 <br>
 <a href="https://vk.com/mivina_xd" target='_blank' title='Мой вк' class='icon__text'>
